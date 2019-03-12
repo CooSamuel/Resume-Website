@@ -1,9 +1,13 @@
 # Resume Website Template
 
-A succinct responsive personal website template built with React.
+All the structure is from [Steve](https://github.com/fuchenxu2008/Resume-Website.git) A succinct responsive personal website template built with React.
 
 ## Demo
-![](https://ws4.sinaimg.cn/large/006tNbRwgy1fwqj09gd1bj31kw21q1kx.jpg)
+![](https://ws1.sinaimg.cn/large/006tKfTcgy1g10esz8im3j31gk0u0wj1.jpg)
+
+## Prerequired
+1. Installation of [yarn](https://yarnpkg.com/lang/en/docs/install/)  `npm i -g yarn`
+2. Installation of [serve](https://www.npmjs.com/package/serve) `yarn global add serve` 
 
 ## Usage
 
