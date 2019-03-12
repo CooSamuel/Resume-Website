@@ -1,56 +1,74 @@
 {
     "contact": {
-        "name": "Chenxu Fu",
-        "en_name": "Steve",
-        "birthday": "April 26, 1997",
-        "tel": "+86 181-1276-9460",
-        "email": "chenxu.fu15 AT student.xjtlu.edu.cn",
-        "address": "Suzhou, China"
+        "name": "Qianshan Chen",
+        "en_name": "Samuel",
+        "birthday": "Augest 22, 1997",
+        "tel": "+86 186-0286-0822",
+        "email": "qianshan.chen15 AT student.xjtlu.edu.cn",
+        "address": "Suzhou, Jiangsu, China"
     },
-    "about": "My name is Chenxu Fu, an undergraduate student in XJTLU. I'm obsessed with Web technologies, including Full Stack development using React, Node.js and MongoDB. Since I had quite some experiences concerning the full procedure with App development and IoT related project, I'm seeking to take a further step to get a master degree in Software Engineering to get a deeper understanding of this field. Besides academic interest, I love fitness and music by Charlie Puth :)",
-    "publications": [
-        {
-            "publisher": "2018 | The 3rd ACM/IEEE International Conference on Internet-of-Things Design and Implementation (IoTDI, 2018), Orlando, Florida",
-            "title": "Demo Abstract: Smart City: a Real-time Environmental Monitoring System on Green Roof",
-            "author": "Z. Zhao, J. Wang, <b>C. Fu</b>, D. Liu, B. Li"
-        }, {
-            "publisher": "2018 | Journal of Sensors 2018 (Sensing and Data-Driven Control for Smart Building and Smart City Systems (SBSCS)), Hindawi",
-            "title": "Design of a Smart Sensor Network System for Real-Time Air Quality Monitoring on Green Roof",
-            "author": "Z. Zhao, J. Wang, <b>C. Fu</b>, Z. Liu, D. Liu, B. Li"
-        }
-    ],
+    "about": "My name is Qianshan Chen, an undergraduate student in XJTLU. ",
+    "publications": [],
     "research": [
         {
-            "title": "Wind Tunnel Real-Time Data Monitoring System, XJTLU",
-            "time": "May 2017 - September 2017",
+            "title": "Applied Voice Recognition to Create Diagnose Assistants",
+            "time": "September 2018 - Current",
             "efforts": [
-                "Participated in a five-member team developing an embedded IoT based real-time data monitoring system for modeling outdoor environment in a wind tunnel.",
-                "Implemented a low latency cloud computing platform utilizing MQTT to handle data transmission from wireless sensor networks; developed a Web GUI with sophisticated visualization functionalities, enabling researchers to control the height of sensors remotely and monitor changes of air quality in real time.",
-                "Research work led to a conference demo presented at IoTDI 2018 in Orlando and an SCI journal paper published by Journal of Sensors, Hindawi."
+                "FYP Project, Machine learning, Application architecture, and User Interface Design"
+            ]
+        },
+        {
+            "title": "Research and improvement of AFS (Adaptive Frontlighting System) with Arduino C language and Python Data Processing.",
+            "time": "June 2018 - Augest 2018",
+            "efforts":[
+                "This a Machinery and Electronics project, mainly of my work is to build the controlling system using python and Arduino. Python is used to receive signal from steering wheel and Arduino is to move the light orientation."
+            ]
+        },
+        {
+            "title": "Remoted Pets Feeding machine, group work Project of EEE212.",
+            "time": "April 2018 - June 2018",
+            "efforts":[
+                "Docker Running a MQTT server, TX2 training and running the Host machine in the product, and Remote server running and control the database of pets and front-end pages"
+            ]
+        },
+        {
+            "title": "Data Analysis with RaspberryPi, Wi-Fi localization",
+            "time": "Augest 2017 - December. 2017",
+            "efforts": [
+                "Use RaspberryPi to collect Wi-Fi signal strength of Acess points",
+                "Using Raspberry Pi as a sensor to receive the information from Wi-Fi Access Points.",
+                "Use python to apply the Fingerprint algorithm to localization the devices."
             ]
         }
     ],
     "internship": [
         {
-            "title": "Software Engineer, Marketing Department, BOSCH, Shanghai",
+            "title": "*Software Engineer, Marketing Department, BOSCH, Shanghai",
             "time": "June 2017 - August 2017",
             "efforts": [
                 "Developed a website to advertise sensor chips on sale on which customers could browse for products and contact for purchase.",
                 "Maintained the WeChat public platform of the company, posting articles introducing technical statistics of the companys latest sensor chips."
             ]
+        },
+        {
+            "title": "Big Data Software Engineer, Technical Department, HT Data Cloud Company, Suzhou.",
+            "time": "July 2017 - August 2017",
+            "efforts": [
+                "Committed to cloud computing data and intelligent recognition technology research and application."
+            ]
         }
     ],
     "extracurricular": [
         {
-            "title": "Self-Developed Classtable APP for XJTLU Students",
-            "time": "August 2017 - September 2018",
+            "title": "Self-Developed Club fee payment APP for XJTLU Students",
+            "time": "August 2017 - September 2017",
             "efforts": [
                 "Independently created an app to enable students to view their class schedule on their phone and integrate it into calendars. Version 1.0 was built using PHP and Python, while version 2.0 utilized React and Node.js for better experience.",
                 "Achieved over 11k users so far and reported by the schools news and local TV station."
             ]
         }, {
-            "title": "Team Member, HACKATHON Blockchain Competition, Shanghai",
-            "time": "August 2018",
+            "title": "*Team Member, HACKATHON Competition, Fudan University, Shanghai",
+            "time": "April 2018",
             "efforts": [
                 "Collaboratively designed and implemented an online decentralized exchange connecting algorithmic trading developers and investors based on Ethereum blockchain technology.",
                 "Responsible for data visualization on the frontend featuring real-time trend of different cryptocurrency prices utilizing React Eschart.js and participated in applying encryption algorithms on the backend powered by Python Flask."

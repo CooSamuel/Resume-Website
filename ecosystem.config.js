@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: 'SteveCV',
+    name: 'SamuelCV',
     script: 'yarn serve',
     instances: 1,
     autorestart: true,

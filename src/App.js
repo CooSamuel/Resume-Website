@@ -42,7 +42,7 @@ class App extends Component {
         }
         <nav className={this.state.openNav ? "show-nav" : "hide-nav"}>
           {publications.length > 0 && <a href="#pub">Publications</a>}
-          {research.length > 0 && <a href="#res">Research</a>}
+          {research.length > 0 && <a href="#res">Academic Projects</a>}
           {internship.length > 0 && <a href="#intern">Internship</a>}
           {extracurricular.length > 0 && <a href="#extra">Extracurricular</a>}
         </nav>
@@ -60,7 +60,7 @@ class App extends Component {
           <li><span>Birthday: </span>{birthday}</li>
           <li><span>Email: </span>{email}</li>
           <li><span>Phone: </span>{tel}</li>
-          <li><span>Address: </span>{address}</li>
+          <li><span>Location: </span>{address}</li>
         </ul>
       </div>
     )
@@ -96,9 +96,7 @@ class App extends Component {
           <p>{about}</p>
           {publications.length > 0 && <h2 className="resume-heading" id="pub">SELECTED PUBLICATIONS</h2>}
           {pubs}
-          {research.length > 0 && <h2 className="resume-heading" id="res">RESEARCH</h2>}
-          {researches}
-          {internship.length > 0 && <h2 className="resume-heading" id="intern">INTERNSHIP</h2>}
+          {research.length > 0 && <h2 className="resume-heading" id="res">ACADEMIC PROJECTS</h2>} {researches} {internship.length > 0 && <h2 className="resume-heading" id="intern">INTERNSHIP</h2>}
           {interns}
           {extracurricular.length > 0 && <h2 className="resume-heading" id="extra">EXTRACURRICULAR EXPERIENCES</h2>}
           {extras}
@@ -108,7 +106,7 @@ class App extends Component {
             @{en_name}'s Personal HomePage.&nbsp;
             <a href="#top">Back to Top</a>
           </div>
-          <a href="https://github.com/fuchenxu2008/Resume-Website"><img src={github} alt="" /></a>
+          <a href="https://github.com/CooSamuel/Resume-Website"><img src={github} alt="" /></a>
         </footer>
       </div>
     );
