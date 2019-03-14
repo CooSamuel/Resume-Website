@@ -1,6 +1,6 @@
 # Resume Website Template
 
-All the structure is from [Steve](https://github.com/fuchenxu2008/Resume-Website.git) A succinct responsive personal website template built with React.
+All the structure is from [Steve](https://github.com/CooSamuel/Resume-Website.git) A succinct responsive personal website template built with React.
 
 ## Demo
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1g10esz8im3j31gk0u0wj1.jpg)

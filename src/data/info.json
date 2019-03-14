@@ -14,21 +14,22 @@
             "title": "Applied Voice Recognition to Create Diagnose Assistants",
             "time": "September 2018 - Current",
             "efforts": [
-                "FYP Project, Machine learning, Application architecture, and User Interface Design"
+                "FYP Project, Machine learning, Application architecture, and User Interface Design."
             ]
         },
         {
-            "title": "Research and improvement of AFS (Adaptive Frontlighting System) with Arduino C language and Python Data Processing.",
+            "title": "Research and improvementation of AFS (Adaptive Frontlighting System) with Arduino and Python Data Processing.",
             "time": "June 2018 - Augest 2018",
             "efforts":[
-                "This a Machinery and Electronics project, mainly of my work is to build the controlling system using python and Arduino. Python is used to receive signal from steering wheel and Arduino is to move the light orientation."
+                "Used python to processing the digital signal gaming wheel ",
+                "Built the controlling system using python and Arduino. Python is used to receive signal from steering wheel and Arduino is to move the light orientation."
             ]
         },
         {
             "title": "Remoted Pets Feeding machine, group work Project of EEE212.",
             "time": "April 2018 - June 2018",
             "efforts":[
-                "Docker Running a MQTT server, TX2 training and running the Host machine in the product, and Remote server running and control the database of pets and front-end pages"
+                "Used Docker to run a MQTT server, TX2 training and running the Host machine in the product, and Remote server running and control the database of pets and front-end pages"
             ]
         },
         {
@@ -43,17 +44,11 @@
     ],
     "internship": [
         {
-            "title": "*Software Engineer, Marketing Department, BOSCH, Shanghai",
-            "time": "June 2017 - August 2017",
-            "efforts": [
-                "Developed a website to advertise sensor chips on sale on which customers could browse for products and contact for purchase.",
-                "Maintained the WeChat public platform of the company, posting articles introducing technical statistics of the companys latest sensor chips."
-            ]
-        },
-        {
             "title": "Big Data Software Engineer, Technical Department, HT Data Cloud Company, Suzhou.",
             "time": "July 2017 - August 2017",
             "efforts": [
+                "Deployed and maintained the Hadoop Distributed File System on company's local server.",
+                "Learnt to use hive and spark with Scala using data from HDFS, to manipulate the database processing",
                 "Committed to cloud computing data and intelligent recognition technology research and application."
             ]
         }
